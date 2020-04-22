@@ -116,3 +116,10 @@ Okay but now as I said before, Tanaka and Fara are no dummies. They didn't stop 
 I'm an atheist, but inverted faces are God's gift to the face researcher because they're exactly what we need at this critical moment. We want a stimulus that looks just like a face but isn't processed like a face. Inverted face is perfect. Same stimulus just upside down. When taka and Farrah did this experiment with inverted faces what happened this effect goes away with inverted faces. Now subjects do better asking which is Larry's nose when asked which is Larry's nose than they do when asked which is Larry. And that shows us that it's not just something about the shading or the nature of the stimulus it's a same stimulus it's just upside down it tells us that when you process upright faces you mandatorily process the whole face not as a set of parts. You don't do that with an inverted face and you don't do that with a house. </br>
 
 Isn't that cool?! Again super low-tech. They probably did this with paper and pencil maybe they had some crappy computer at the time. This gives a gist of how powerful low-tech behavioral methods can be in revealing the nature of internal representations.
+
+
+**References**
+- ``` Yin, R. K. (1969). Looking at upside-down faces. Journal of experimental psychology, 81(1), 141 ```
+- ``` Tanaka, J. W., & Farah, M. J. (1993). Parts and wholes in face recognition. The Quarterly journal of experimental psychology, 46(2), 225-245. ```
+- ``` https://www.youtube.com/watch?v=rfHZnWZMewM ```
+- ``` https://www.youtube.com/watch?v=m20iJRi4vE0 ```
